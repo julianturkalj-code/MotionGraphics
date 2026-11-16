@@ -1,0 +1,60 @@
+{
+  "breite_mm": 239.9,
+  "hoehe_mm": 290.8,
+  "staerke_mm": 8.0,
+  "relief_mm": 2.0,
+  "volumen_cm3": 373.3,
+  "masse_alu_g": 1008,
+  "stl_watertight": true,
+  "fraesbarkeit": {
+    "min_spalt_zwischen_inseln_mm": 1.2,
+    "min_spalt_ort_mm": [
+      68.8,
+      -98.4
+    ],
+    "min_rand_zur_aussenkontur_mm": 2.55,
+    "duennste_vertiefte_schrift_mm": 2.03,
+    "anzahl_erhabene_inseln": 48,
+    "anzahl_vertiefte_schriftzeichen": 25
+  },
+  "bauteile": {
+    "wappen_1887": [
+      -97.5,
+      -184.2,
+      97.5,
+      0.0
+    ],
+    "volkspark": [
+      -120.0,
+      -253.8,
+      120.0,
+      -162.5
+    ],
+    "namensband": [
+      -113.1,
+      -290.8,
+      113.1,
+      -249.5
+    ]
+  },
+  "params": {
+    "crest_width": 195.0,
+    "vp_width": 240.0,
+    "thickness": 8.0,
+    "relief_depth": 2.0,
+    "name_text": "ALI IHSAN YAVUZ",
+    "name_cap_height": 11.5,
+    "name_tracking": 0.08,
+    "ribbon_width": 150.0,
+    "ribbon_end_margin": 11.0,
+    "ribbon_height": 22.0,
+    "ribbon_sag": 14.0,
+    "ribbon_black_border": 2.6,
+    "ribbon_notch": 7.0,
+    "gap_raised": 2.6,
+    "junction_fillet": 9.0,
+    "outline_tool_d": 3.0,
+    "edge_smoothing": 0.45,
+    "min_pocket_width": 1.2
+  }
+}
